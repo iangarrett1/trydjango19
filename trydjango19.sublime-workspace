@@ -1,0 +1,273 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fu",
+				"function"
+			],
+			[
+				"get_",
+				"get_json"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"rq",
+				"request_data"
+			],
+			[
+				"request",
+				"request_data"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"order",
+				"order_month"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/iangarrett/data_analysis/python-forecasting/ARIMA-0-1-0-Random-Walk.py",
+		"/Users/iangarrett/Library/Mobile Documents/com~apple~CloudDocs/Python_Learnings/blackjack.py",
+		"/Users/iangarrett/Portfolio-site/css/main.css",
+		"/Users/iangarrett/Portfolio-site/pages/contact.html",
+		"/Users/iangarrett/Portfolio-site/pages/about.html",
+		"/Users/iangarrett/Portfolio-site/css/main.csvv",
+		"/Users/iangarrett/Index.html",
+		"/Users/iangarrett/Documents/groupon_sql.txt",
+		"/Users/iangarrett/crumbler/app/views/posts/index.html.erb",
+		"/Users/iangarrett/crumbler/db/schema.rb",
+		"/Users/iangarrett/crumbler/app/controllers/pages_controller.rb",
+		"/Users/iangarrett/crumbler/app/views/pages/welcome.html.erb",
+		"/Users/iangarrett/crumbler/app/views/posts/_post.html.erb",
+		"/Users/iangarrett/crumbler/app/views/posts/show.html.erb",
+		"/Users/iangarrett/crumbler/app/views/posts/_form.html.erb",
+		"/Users/iangarrett/crumbler/app/views/layouts/application.html.erb",
+		"/Users/iangarrett/crumbler/app/views/pages/about.html.erb",
+		"/Users/iangarrett/crumbler/config/routes.rb",
+		"/Users/iangarrett/Desktop/~90% of our time on mobile is spent on email and m",
+		"/Users/iangarrett/ruby-getting-started/app/views/contact_form/create.html.haml",
+		"/Users/iangarrett/ruby-getting-started/app/controllers/static_pages_controller.rb",
+		"/Users/iangarrett/ruby-getting-started/app/views/welcome/index.erb",
+		"/Users/iangarrett/ruby-getting-started/app/models/contact.rb",
+		"/Users/iangarrett/ruby-getting-started/app/controllers/contacts_controller.rb",
+		"/Users/iangarrett/ruby-getting-started/app/views/contacts/new.html.erb",
+		"/Users/iangarrett/ruby-getting-started/app/views/contacts/create.html.erb",
+		"/Users/iangarrett/ruby-getting-started/app/assets/images/lang-logo2.png",
+		"/Users/iangarrett/ruby-getting-started/app/views/layouts/application.html.erb",
+		"/Users/iangarrett/ruby-getting-started/app/assets/stylesheets/theme.css.scss.erb",
+		"/Users/iangarrett/ruby-getting-started/app/models/user.rb",
+		"/Users/iangarrett/ruby-getting-started/app/controllers/users_controller.rb",
+		"/Users/iangarrett/ruby-getting-started/app/views/contact_form/new.html.haml",
+		"/Users/iangarrett/ruby-getting-started/app/views/new.html.erb",
+		"/Users/iangarrett/ruby-getting-started/config/routes.rb",
+		"/Users/iangarrett/ruby-getting-started/app/assets/stylesheets/application.css",
+		"/Users/iangarrett/ruby-getting-started/Gemfile",
+		"/Users/iangarrett/ruby-getting-started/app/views/pages/privacypolicy.html.erb",
+		"/Users/iangarrett/ruby-getting-started/app/views/pages/termsofuse.html.erb",
+		"/Users/iangarrett/Sites/ruby-getting-started/app/assets/stylesheets/theme.css.scss",
+		"/Users/iangarrett/ruby-getting-started/app/controllers/pages_controller.rb",
+		"/Users/iangarrett/ruby-getting-started/app/views/static_pages/termsofuse.html.erb",
+		"/Users/iangarrett/Sites/Test-App/web/stylesheets/main.css",
+		"/Users/iangarrett/ruby-getting-started/app/assets/stylesheets/theme.css.scss",
+		"/Users/iangarrett/Sites/Test-App/web/index.php",
+		"/Users/iangarrett/Sites/Test-App/web/views/nav.html",
+		"/Users/iangarrett/Sites/Test-App/web/views/index.twig",
+		"/Users/iangarrett/Sites/Test-App/web/views/termsofuse.twig",
+		"/Users/iangarrett/Sites/phpinfo.php",
+		"/Users/iangarrett/Sites/index.php",
+		"/Users/iangarrett/Sites/webhook.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'C:\\\\Users\\\\Diego\\\\Desktop\\\\Forecasting Models with Python\\\\Apple Daily.csv'",
+			"pd",
+			"session",
+			"development",
+			"generate",
+			"password",
+			"lang-logo",
+			".png",
+			"image",
+			"image-url",
+			"logo",
+			"html",
+			"lang"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'/Users/iangarrett/Apple Daily.csv'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango19.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"db/mi",
+				"db/migrate/20140707111715_create_widgets.rb"
+			],
+			[
+				"",
+				"config/routes.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"produ",
+				"config/environments/production.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 335.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
